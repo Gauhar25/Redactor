@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+.next {
+   background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+    padding: 10px;
+    font-size: 40px;
+    color: black;
+    font-family: 'Abril Fatface', cursive;
+}
+.line {
+    font-size: 25px;
+}
+.btn {
+    font-family: 'Abril Fatface', cursive;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+.active {
+    background-color: #ff9800 !important;
+}
+.underline {
+    text-decoration: underline;
+}
+.line-through {
+    text-decoration: line-through;
+}

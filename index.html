@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="container">
+    <h2 class="text-center mt-5  next">Text Editor</h2>
+    <div class="format-btn text-center mt-4">
+        <button type="button" class="btn btn-outline-warning btn-lg text-decor" onclick="textThrough(this)">S</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg text-decor" onclick="textUnderline(this)">U</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg" onclick="textItalic(this)">I</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg" onclick="bolderText(this)">B</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg align" onclick="textLeft(this)">Left</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg align" onclick="textCenter(this)">Center</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg align" onclick="textRight(this)">Right</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg color" onclick="textRed(this)">Red</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg color" onclick="textGreen(this)">Green</button>
+        <button type="button" class="btn btn btn-outline-warning btn-lg color" onclick="textBlue(this)">Blue</button>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-6">
+            <div class="form-group">
+                <label for="input" class="text-warning line">Input</label>
+                <textarea class="form-control" id="input" rows="10"></textarea>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label for="output" class="text-warning line">Output</label>
+                <textarea class="form-control" id="output" rows="10" disabled></textarea>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="./main.js"></script>
+</body>
+</html>

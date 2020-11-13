@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d7aa59b-5050-40df-9635-e9ccae8641ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dom/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dom/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FOOD-BOX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Figma/.idea/Figma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Figma/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Figma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Figma/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Figma/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Figma/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Fonts/.idea/Fonts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Fonts/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Fonts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Fonts/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Fonts/19842.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Fonts/porter-sans-inline-block.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo/.idea/kinogo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo2/.idea/Kinogo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Kinogo2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/.idea/Movie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/Css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/img/Cinderella.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/img/egipet.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/img/f4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/img/merlin.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/img/milue.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/img/selena.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/img/titanic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/img/vampir.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Movie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Spirid/.idea/Spirid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Spirid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Spirid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/Spirid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto/.idea/auto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto2/.idea/auto2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/auto2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/beaty2/.idea/beaty2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/beaty2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/beaty2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/beaty2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/beaty2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/beaty2/img/Rectangle 4 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/beaty2/img/beauty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/beaty2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bem/.idea/bem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bem/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bem/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/.idea/bootstrap-lesson-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/bootstrap-lesson-1/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/domashka/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/domashka/.idea/domashka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/domashka/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/domashka/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/domashka/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/domashka/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/form2/.idea/form2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/form2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/form2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/foto/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/foto/.idea/foto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/foto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/foto/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/fruit juise/cmuzi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/fruit juise/friends.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/fruit juise/limonad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/fruit juise/акшутв.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/fruit juise/напиток.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/fruit juise/пьет.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/fruit juise/пьут2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/fruit juise/смузи.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/header/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/header/.idea/header.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/header/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/header/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/header/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/header/img/nature.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/header/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/img5/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/img5/.idea/img5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/img5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/img5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input/.idea/input.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input2/.idea/input2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/input2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/.idea/intro-style.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/styles/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/styles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/styles/.idea/styles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/styles/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/intro-style/styles/style/styles1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/kinogo3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/kinogo3/.idea/kinogo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/kinogo3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/kinogo3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/kinogo3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/kinogo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson10/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson10/.idea/lesson10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson10/images/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson10/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson3/.idea/lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson3/images/new-york-strana-ili-gorod (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson3/images/paris.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson3/lesson-css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson6/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson6/.idea/lesson6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson6/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/.idea/lesson8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/css/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Medium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/fonts/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/lesson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/list/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/list/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson8/list/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson9/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson9/.idea/lesson9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson9/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/lesson9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media-new/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media-new/.idea/media-new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media-new/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media-new/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media-new/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media-new/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media-new/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media/.idea/media.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/media/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/menu/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/menu/.idea/menu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/menu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/menu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/menu/menu.css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/menu/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/mobile-menu/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/mobile-menu/.idea/mobile-menu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/mobile-menu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/mobile-menu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/mobile-menu/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/mobile-menu/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/mobile-menu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/mobile-menu/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/.idea/new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/abu-dabi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/images/deira.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/images/dubai.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/new/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/phone" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position/.idea/position.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position2/.idea/position2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position3/.idea/position3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/position3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/practika/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/practika/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/practika/.idea/practika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/practika/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/practika/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/practika/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/redacted/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/redacted/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/redacted/.idea/redacted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/redacted/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/redacted/redacted-script.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/sait/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/sait/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/sait/.idea/sait.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/sait/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka/.idea/setka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/.idea/setka2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/IMG/fon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/IMG/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/IMG/image2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/IMG/image3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setka2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setkanovaya/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setkanovaya/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setkanovaya/.idea/setkanovaya.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setkanovaya/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setkanovaya/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setkanovaya/img/bar-chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/setkanovaya/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/.idea/shrift.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/fonts/porter-sans-inline-block.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/fonts/postnobillscolombo-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/fonts/redacted-script-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/style/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/style/fonts/porter-sans-inline-block.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/style/fonts/postnobillscolombo-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/style/fonts/redacted-script-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/shrift/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/title/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/title/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/title/.idea/title.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/title/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/visa/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/visa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/visa/.idea/visa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/visa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/visa/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-End/visa/odi/line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git Bash.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub Desktop.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Js1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Js1/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Node.js.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatsApp.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/.idea/beauty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/img/Rectangle 4 (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/img/beauty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/img/stul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beauty/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../button/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../button/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grid/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input/.idea/input.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/.idea/it-company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/img/Rectangle (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/img/col.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/img/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/img/it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/img/project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/img/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/js/jquery.fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../it-company/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-intro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-intro/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../massiv/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../massiv/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/.idea/proekt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/img/bot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/img/dom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/img/maicrosoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/img/most.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proekt/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3_/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project3_/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/.idea/rezume.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/WhatsApp Image 2020-10-03 at 22.55.53.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/fruit.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/gauhaaar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/gauhar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/gauhara.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/gauharaa.jprg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/our-project-team.spirit.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/our-project-team.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/our-team-project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/red.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/img/Новая сжатая ZIP-папка.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rezume/jim-kwik-superbrain-workbook.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setka2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setka2/.idea/setka2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setka2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setka2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../setka2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shrift/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shrift/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shrift/.idea/shrift.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shrift/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shrift/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shrift/style/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shrift/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-proj/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-proj/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Redactor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../velvet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wow/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wow/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wow/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wow/.idea/wow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wow/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wow/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../year/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../year/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kCLSeZSszBU9z9CiLk3Qpr3dVJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d7aa59b-5050-40df-9635-e9ccae8641ac" name="Default Changelist" comment="" />
+      <created>1605199627717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605199627717</updated>
+      <workItem from="1605199628854" duration="16181000" />
+      <workItem from="1605248087422" duration="2174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605204667021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605204667021" />
+  </component>
+</project>
